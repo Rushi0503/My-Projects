@@ -1,4 +1,4 @@
-# My-Projects
+# Multifunction IC Tester
 This Multifunction IC Tester is a versatile and cost-effective hardware tool designed using an ESP32 microcontroller. It allows users to test multiple types of electronic components, including digital ICs, linear ICs, resistors, capacitors, inductors, diodes, and to measure voltage and current. The device features a compact OLED display and intuitive interface, making it suitable for students, electronics enthusiasts, and professionals alike.
 
 🛠️ Features
